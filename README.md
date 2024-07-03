@@ -25,3 +25,7 @@ The script will:
 - Generate a response based on the provided question.
 - Calculate and display the cosine similarity score between the query and the retrieved document.
 
+### Requirements
+
+- Subscription in OpenAI's API.
+- Subscription in LangChain's API. 
