@@ -1,1 +1,1 @@
-# Semantic-Retrieval-for-RAG-using-Llama-2
+# Semantic-Retrieval-RAG-using-LangChain
