@@ -1,0 +1,30 @@
+"""
+This file contains the packages that are required for the project.
+
+Packages
+--------
+langchain_community==0.2.6
+    - A library for building language models with support for various community-contributed plugins.
+
+tiktoken==0.7.0
+    - A tokenization library used for encoding and decoding text in language models, designed for efficiency.
+
+langchain-openai==0.1.13
+    - Provides integration with OpenAI's language models for generating and managing text completions.
+
+langchainhub==0.1.20
+    - A hub for sharing and discovering reusable components and models within the LangChain ecosystem.
+
+chromadb==0.5.3
+    - A vector database used for storing and retrieving high-dimensional vectors, essential for similarity search tasks.
+
+langchain==0.2.6
+    - A comprehensive framework for developing and deploying language model-based applications and workflows.
+"""
+
+langchain_community==0.2.6
+tiktoken==0.7.0
+langchain-openai==0.1.13
+langchainhub==0.1.20
+chromadb==0.5.3
+langchain==0.2.6
