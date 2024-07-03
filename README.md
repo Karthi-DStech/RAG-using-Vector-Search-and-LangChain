@@ -1,1 +1,1 @@
-# Semantic-Retrieval-RAG-using-LangChain
+# SemanticRetrieval-RAG-using-LangChain
