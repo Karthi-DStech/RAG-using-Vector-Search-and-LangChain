@@ -1,4 +1,4 @@
-# SemanticRetrieval-RAG-using-LangChain 
+# SemanticRetrieval-RAG-using-LangChain & OpenAI
 
 LangChain-RAG is a project that implements Retrieval-Augmented Generation (RAG) using LangChain and OpenAI's language models. This project demonstrates how to use LangChain for document retrieval and embedding, and OpenAI's API for generating responses based on the retrieved documents from **Websites**. 
 
