@@ -15,16 +15,6 @@ class DocumentProcessor:
     openai_api_key: 
         The OpenAI API key.
         
-    Methods
-    -------
-    load_documents:
-        Load documents from the provided URL.
-        
-    split_documents:
-        Split the documents into chunks.
-        
-    embed_documents:
-        Embed the documents.
     """
     def __init__(self, openai_api_key):
         self.openai_api_key = openai_api_key
