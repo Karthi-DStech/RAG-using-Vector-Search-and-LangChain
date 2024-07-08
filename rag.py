@@ -24,7 +24,7 @@ class RAGProcess:
         Query the RAG chain.
         
     calculate_cosine_similarity:
-        Calculate cosine similarity between the query and the document.
+        Calculate the cosine similarity between the query and the document.
         
     run:
         Run the RAG process.   
@@ -136,7 +136,7 @@ class RAGProcess:
 
     def calculate_cosine_similarity(self, query, document):
         """
-        Calculate cosine similarity between the query and the document.
+        Calculate the cosine similarity between the query and the document.
         
         parameters
         ----------
@@ -181,6 +181,18 @@ class RAGProcess:
 
     def run(self, url, parse_classes, question):
         """
+        Run the RAG process.  
+
+        parameters
+        ----------
+        url:
+            Loads the URL for processing the document.
+
+        parse_classes:
+            Parses the classes for processing the document.
+
+        question:
+            Query from the user's prompt. 
         
         """
         try:
